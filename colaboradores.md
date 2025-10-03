@@ -1,3 +1,3 @@
-#jefa_de_grupo = Elena
+#Jefa_de_grupo = Elena
 
 #Colaborador = Francisco
